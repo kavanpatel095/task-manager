@@ -13,10 +13,10 @@ A full-stack Task Management App with JWT-based authentication, task CRUD operat
 - **Backend:** Node.js, Express, PostgreSQL, Sequelize, JWT.
 - **Frontend:** React, Redux Toolkit, React Router, Tailwind CSS, Axios, React Toastify.
 
-![Screenshot (13)](https://github.com/user-attachments/assets/3d1696a1-6b82-4521-88fe-7d9ef1fcbfdd)
+![Screenshot (13)](https://github.com/user-attachments/assets/2fa15d49-d92c-476b-a030-aed4b88db7b0)
 
-![Screenshot (12)](https://github.com/user-attachments/assets/66e3b5e1-7387-4777-956f-1487368cacda)
+![Screenshot (12)](https://github.com/user-attachments/assets/140cfd3d-5d77-4507-bfd8-89a636ff9a97)
 
-![Screenshot (11)](https://github.com/user-attachments/assets/ffc827c7-86d8-4832-831b-5b118876cb6b)
+![Screenshot (11)](https://github.com/user-attachments/assets/aab86441-8221-4086-a3ed-682341097998)
 
-![Screenshot (14)](https://github.com/user-attachments/assets/57ce9583-ce9b-4962-8032-155c5aed8bc1)
+![Screenshot (14)](https://github.com/user-attachments/assets/e69ce805-90ed-4ea7-bb6f-d4419da798a1)
